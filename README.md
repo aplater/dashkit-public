@@ -1,5 +1,4 @@
 # Dashkit
-Test
 
 ![](https://cssninja.io/storage/app/media/external/Envato/github/dashkit.png)
 
