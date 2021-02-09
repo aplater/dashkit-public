@@ -28,7 +28,7 @@ If you've found an issue or a bug, you can report it in the issues section of th
 
 ## 🎉 More
 
-You liked Dashkit? Check also our other premium Envato bulma themes [Css Ninja](https://cssninja.io/themes).
+You liked Dashkit? Check also our other premium Envato bulma themes [Css Ninja](https://themeforest.net/user/cssninjastudio/portfolio).
 
 Find more premium bulma templates on [Css Ninja](https://cssninja.io/category/all).
 
