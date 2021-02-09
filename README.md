@@ -5,7 +5,7 @@
 
 ## preview
 
-Live Demo [here](https://dashkit.cssninja.io). You can purchase Dashkit [here](https://cssninja.io/product/dashkit). Dashkit is built with the [Bulma css framework](https://bulma.io)
+Live Demo [here](https://dashkit.cssninja.io). You can purchase Dashkit [here](https://cssninja.io/product/dashkit). Dashkit is built with [Bulma](https://bulma.io)
 
 ## 👍 Features
 
