@@ -1,18 +1,17 @@
-# Dashkit
-
+# 👋 Dashkit
+> Dashkit is a premium Bulma dashboard UI Kit built by [Css Ninja Studio](https://cssninja.io).
 ![Screenshot](https://media.cssninja.io/products/dashkit/product.png "Dashkit")
 
-Dashkit is a premium Bulma dashboard UI Kit built by [Css Ninja Studio](https://cssninja.io).
+## preview
 
-Live Demo [here](https://dashkit.cssninja.io).
+Live Demo [here](https://dashkit.cssninja.io). You can purchase Dashkit [here](https://cssninja.io/product/dashkit). Dashkit is built with the [Bulma css framework](https://bulma.io)
 
-You can purchase Dashkit [here](https://cssninja.io/product/dashkit).
+## 👍 Features
 
-## Details
-
-Dashkit is built with the [Bulma css framework](https://bulma.io)
-
-**Version 3.2.0**
+* Gulp 4 and nodejs 12.13.0 (minimum)
+* Bulma 0.9.1
+* ES6 support
+* Alpine JS
 
 ## Issues
 
